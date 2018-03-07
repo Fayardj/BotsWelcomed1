@@ -1,0 +1,273 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="botswelcomed.com" resolutions="1x" timestamp="1520397082056">
+  <folder name="css">
+    <file name="site_global.css" crc="4010076527"/>
+    <file name="index.css" crc="192884949" ref="index"/>
+    <file name="nomq_index.css" crc="164392085" ref="index"/>
+    <file name="start.css" crc="303719213" ref="start"/>
+    <file name="nomq_start.css" crc="461260011" ref="start"/>
+    <file name="schedule.css" crc="73478321" ref="schedule"/>
+    <file name="brochure.css" crc="14146323" ref="brochure"/>
+    <file name="nomq_brochure.css" crc="4006420281" ref="brochure"/>
+  </folder>
+  <folder name="assets">
+    <file name="newface.svg" crc="4293939980" seo="true" mt="1517976928000"/>
+    <file name="4selling.jpg" crc="280968043" seo="true" mt="1515554822000"/>
+    <file name="3newsletters.jpg" crc="4182153079" seo="true" mt="1517976928000"/>
+    <file name="customerservice.jpg" crc="4024829270" seo="true" mt="1517976928000"/>
+    <file name="advertising.jpg" crc="399978990" seo="true" mt="1517976928000"/>
+    <file name="4selling2.jpg" crc="377821377" seo="true" mt="1518311877000"/>
+    <file name="advertising2.jpg" crc="399978990" seo="true" mt="1518311877000"/>
+    <file name="3newsletters2.jpg" crc="4182153079" seo="true" mt="1518311877000"/>
+    <file name="customerservice2.jpg" crc="4024829270" seo="true" mt="1518311877000"/>
+    <file name="newface2.svg" crc="4293939980" seo="true" mt="1518655365000"/>
+    <file name="bots-welcomed-brochure-2-(1).pdf" crc="3876444661" seo="true" mt="1519163173000"/>
+    <file name="advertising22.jpg" crc="399978990" seo="true" mt="1519592421000"/>
+    <file name="3newsletters3.jpg" crc="4182153079" seo="true" mt="1519592421000"/>
+    <file name="customerservice3.jpg" crc="4024829270" seo="true" mt="1519592421000"/>
+    <file name="4selling3.jpg" crc="280968043" seo="true" mt="1520391491000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:schedule"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index:index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index:index"/>
+    <file name="form-u17492.php" crc="4093107236" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>start:index:start"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>start:phone>brochure:phone>schedule:index:start:brochure:schedule"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form-u11750.php" crc="337765088" ref="index"/>
+    <file name="form-u12733.php" crc="4121142563" ref="index"/>
+    <file name="form-u7097.php" crc="3865408756" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:start:brochure"/>
+  </folder>
+  <folder name="images">
+    <file name="logo copy89x61.png" crc="3912194788" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man-using-his-iphone-6-on-a-sofa-picjumbo-com381x176.jpg" crc="4142955829" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe muse ccscreensnapz002348x385.jpg" crc="3942697153" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-24 at 23232 pm.jpg" crc="3907291106" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moreleads202x204.png" crc="3764729124" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classify190x192.png" crc="290051503" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autopilot157x158.png" crc="4048343440" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="relaxed155x157.png" crc="30832184" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fastercom167x168.png" crc="3858548766" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="distribute161x162.png" crc="508163132" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="engage149x151.png" crc="3775925503" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reach146x147.png" crc="4290937406" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-24 at 32006 pm350x121.jpg" crc="474384617" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="botsyw.jpg" crc="4163053031" seo="true" ref="phone>start:start">
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="meet-crop-u19344.png" crc="380303433" seo="true" ref="phone>start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="build-crop-u19347.png" crc="137449405" seo="true" ref="phone>start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="launchedit.jpg" crc="4199798740" seo="true" ref="phone>start:start">
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="maintain1-crop-u19350.png" crc="118773910" seo="true" ref="phone>start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="phoneconvol.jpg" crc="4235773513" seo="true" ref="phone>start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="phoneconvor.jpg" crc="243599645" seo="true" ref="phone>start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="109184349" ref="index:start"/>
+    <file name="logo copy.png" crc="4064069004" seo="true" ref="index:start">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="man-using-his-iphone-6-on-a-sofa-picjumbo-com.jpg" crc="386633421" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phoneconvoll-crop-u24075.png" crc="4072811601" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe muse ccscreensnapz002.jpg" crc="4073729786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moreleads-crop-u11633.png" crc="208457685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classify.png" crc="115708903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autopilot.png" crc="4151669058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="relaxed.png" crc="3925689205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fastercom.png" crc="346919869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo copy2.png" crc="4128809081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="distribute.png" crc="211539898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="engage.png" crc="145375232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reach.png" crc="4257290876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-24 at 32006 pm.jpg" crc="3900761671" seo="true" ref="index:start">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="man-using-his-iphone-6-on-a-sofa-picjumbo-com-u7083-fr.jpg" crc="3826212197" ref="index"/>
+    <file name="phoneconvolsmall-crop-u12764.png" crc="21918984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moreleads.png" crc="4072240562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man-using-his-iphone-6-on-a-sofa-picjumbo-com2.jpg" crc="520743179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe muse ccscreensnapz001.jpg" crc="378964955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phoneconvol-crop-u15155.png" crc="127963231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moreleads218x221.png" crc="4253001261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classify220x222.png" crc="514389167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autopilot221x223.png" crc="4258857084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="relaxed216x218.png" crc="40355083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fastercom220x222.png" crc="479275497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="distribute218x221.png" crc="171432810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="engage218x221.png" crc="421640969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reach221x223.png" crc="3795244290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:start:brochure"/>
+    <file name="meet-crop-u18029.png" crc="3975344075" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="build-crop-u18032.png" crc="3906299710" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="maintain1-crop-u18035.png" crc="3888233553" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="phoneconvo.png" crc="321325258" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="meet-crop-u18602.png" crc="4171149786" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="build-crop-u18605.png" crc="82736595" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="maintain1-crop-u18608.png" crc="379644483" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-24 at 32006 pm519x179.jpg" crc="300362538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo copy287x195.png" crc="4253888628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4selling.jpg" crc="4072969567" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="advertising.jpg" crc="33270916" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="customerservice.jpg" crc="4121705422" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3newsletters2.jpg" crc="20465691" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="brochure.css" crc="4125205513" ref="phone>brochure"/>
+      <file name="schedule.css" crc="4165001097" ref="phone>schedule"/>
+      <file name="nomq_schedule.css" crc="3824530138" ref="phone>schedule"/>
+      <file name="index.css" crc="3824258841" ref="phone>index"/>
+      <file name="start.css" crc="3806144710" ref="phone>start"/>
+    </folder>
+    <file name="index.html" crc="4116202602" seo="true" mt="1520392272983" redirect="true"/>
+    <file name="start.html" crc="4164330793" seo="true" mt="1517189678022" redirect="true"/>
+    <file name="brochure.html" crc="289602108" seo="true" mt="1517187554006" redirect="true"/>
+    <file name="schedule.html" crc="242166196" seo="true" mt="1517188317031" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4196311578" seo="true" mt="1520397059267" redirect="true"/>
+  <file name="start.html" crc="11311153" seo="true" mt="1519804660166" redirect="true"/>
+  <file name="brochure.html" crc="86138607" seo="true" mt="1519278407376" redirect="true"/>
+  <file name="schedule.html" crc="521819613" seo="true" mt="1518576599673" redirect="true"/>
+</manifest>
